@@ -1,4 +1,4 @@
-#!/usr/bin/env pythone
+#!/usr/bin/env python3
 """kronos.py by StephenCardone
 """
 import datetime
