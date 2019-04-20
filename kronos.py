@@ -1,5 +1,5 @@
 #!/usr/bin/env pythone
-"""helloWorld.py by StephenCardone
+"""kronos.py by StephenCardone
 """
 import datetime
 import sys
